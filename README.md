@@ -1,4 +1,4 @@
-# tuna-plate 2018
+# Hackathon-plate 2019
 
 > Internal Ironhack Barcelona Hackathon (UX/UI + WebDev)
 
