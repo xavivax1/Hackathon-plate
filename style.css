@@ -35,8 +35,54 @@ body {
   }
 }
 
+/*
+azul #2f5568
+amarillo #f9ca3e
+rojo #d04931 
+blanco: #fafafa
+*/
 /* ---- header ---- */
+.seccion1{
+   padding: 10vh 5vw 0  5vw;
+   min-height: 100vh;
+   min-width: 100vw;
+   display: flex;
+   align-content: center;
+   justify-content: space-around;
+   background-color: #2f5568;
+ }
+ .content-div{
+   max-width: 40vw;
+ }
+ .content-div h1{
+   color: #f9ca3e;
+ }
+ .content-div p{
+   color: #fafafa;
+ }
+ .form-div {
+   padding: 1vh 1vw;
+   border: 1px solid #f9ca3e;
+   background-color: #fafafa;
+   max-height: 75vh;
+   min-width: 36vw;
+   color: #2f5568;
 
+  
+ }
+
+ .form-div form {
+   display: flex;
+   flex-direction: column;
+ }
+ .form-div button {
+   
+
+ }
+ .animation img{
+   margin-top: 30px;
+   max-width: 30vw;
+ }
 /* ---- footer ---- */
 
 /* ---- components ---- */
