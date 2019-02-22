@@ -13,7 +13,6 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Montserrat', 'sans-serif'
 }
 
 
@@ -119,7 +118,6 @@ blanco: #fafafa
   flex-direction: column;
   align-content: center;
   text-align: center;
-  margin-bottom: 10rem;
 }
 
 .row {
@@ -136,15 +134,6 @@ blanco: #fafafa
   width:20%;
 }
 
-.seccion3{
-  text-align: center;
-}
-.container3{
-  margin-top:4rem;
-}
-.testimg{
-  border-radius:100%
-}
 /* ---- footer ---- */
 
 /* ---- components ---- */
